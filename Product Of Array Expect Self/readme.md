@@ -4,7 +4,8 @@
 
 ## You must write an algorithm that runs in O(n) time and without using the division operation.
 
- 
+
+### Solution with Memory Usage: 52.6 MB, less than 94.24% of JavaScript online submissions
 
 # Example 1:
 
